@@ -1,7 +1,7 @@
 # Interview Practice 
 
 Unicorn
-Unicorn
+
 Given a number 'n', implement a method that prints in a different line:
 - "My name is: unicorn" every time that 'n' value ends in 1 (1,11,21...).
 - "My name is: unosquare" every time that 'n' value is divisible by 5 (5,10,15,etc).
@@ -30,6 +30,7 @@ Examples:
 
 ----------------------------------------------------------------------------
 Chess
+
 Given a number 'n', implement a method that prints a chess board where black cells must be represented by a number sign (#) and white cells must be represented by a blank space ( ).
 Considerations:
 - Input must be an Integer bigger than 0.
@@ -57,6 +58,7 @@ Examples:
 
 ----------------------------------------------------------------------------
 Dissapear
+
 Given a String 'phrase', implement a method that removes every single character inside the word "uno" from 'phrase' and prints the resultant phrase.
 Considerations:
 - Input must not be null or blank.
