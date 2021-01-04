@@ -13,19 +13,30 @@ Considerations:
 
 Examples:
   Input: 3
+  
   Output: 
+  
      My name is unicorn
+     
      My name is number
+     
      My name is number 
 
 Examples:
   Input: 6
+  
   Output:
+  
      My name is unicorn
+     
      My name is number
+     
      My name is number
+     
      My name is number
+     
      My name is unosquare
+     
      My name is number
 
 ----------------------------------------------------------------------------
@@ -39,22 +50,37 @@ Considerations:
 
 Examples:
   Input: 2
+  
   Output: 
+  
      #  
+     
       #
+      
 
   Input: 3
+  
   Output: 
+  
      # #
+     
       # 
+      
      # # 
      
+     
   Input: 4
+  
   Output: 
+  
      # # 
+     
       # #
+      
      # # 
+     
       # #
+      
 
 ----------------------------------------------------------------------------
 Dissapear
